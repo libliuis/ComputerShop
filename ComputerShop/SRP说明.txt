@@ -1,0 +1,1 @@
+在Computer、ComputerSpec和Inventory中的每个方法都采用了SRP！
